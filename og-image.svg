@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Dr Jack Dee social sharing image">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F" />
+      <stop offset="55%" stop-color="#112240" />
+      <stop offset="100%" stop-color="#081322" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE082" />
+      <stop offset="100%" stop-color="#F2C94C" />
+    </linearGradient>
+    <radialGradient id="glow" cx="28%" cy="18%" r="65%">
+      <stop offset="0%" stop-color="#F2C94C" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#F2C94C" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+  <g opacity="0.26">
+    <path d="M0 90H1200M0 180H1200M0 270H1200M0 360H1200M0 450H1200M0 540H1200" stroke="#233554" />
+    <path d="M120 0V630M240 0V630M360 0V630M480 0V630M600 0V630M720 0V630M840 0V630M960 0V630M1080 0V630" stroke="#233554" />
+  </g>
+  <circle cx="922" cy="170" r="124" fill="#163055" opacity="0.72" />
+  <circle cx="922" cy="170" r="86" fill="none" stroke="url(#gold)" stroke-opacity="0.7" stroke-width="2.4" />
+  <path d="M850 250 940 160 1030 250" fill="none" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" />
+  <rect x="88" y="88" width="280" height="48" rx="24" fill="#091221" stroke="#F2C94C" stroke-opacity="0.58" />
+  <text x="228" y="118" fill="#FFE082" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">DOCTORAL PLATFORM LAUNCHING SOON</text>
+  <text x="88" y="278" fill="#F8FAFC" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700">Dr. Jack Dee</text>
+  <text x="88" y="352" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="500">The next evolution of executive strategy, technology leadership, and practitioner-scholar insight.</text>
+  <text x="88" y="462" fill="#8892B0" font-family="Inter, Arial, sans-serif" font-size="24">Executive strategy. AI transformation. Leadership visibility. Doctoral thought leadership.</text>
+  <rect x="88" y="505" width="300" height="52" rx="26" fill="#F2C94C" />
+  <text x="238" y="539" fill="#0A192F" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" text-anchor="middle">drjackdee.com</text>
+  <text x="804" y="486" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="22">MrJackDee</text>
+  <text x="955" y="486" fill="#FFE082" font-family="Inter, Arial, sans-serif" font-size="22">→</text>
+  <text x="989" y="486" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="22">DrJackDee</text>
+</svg>
