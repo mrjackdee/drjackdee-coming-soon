@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/teampink","destination":"/teampink/index.html"}],"functions":{"api/teampink-order.js":{"maxDuration":30}}}
